@@ -15,3 +15,5 @@ app/**/output.json
 
 # Unnecessary file
 *.swp
+
+learning/*
